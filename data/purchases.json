@@ -1,0 +1,26 @@
+[
+    {
+        "purchase_id": "PUR-1A2B3C4D",
+        "product_id": "P-A1B2C3D4",
+        "product_name": "Sony WH-CH520",
+        "quantity": 1,
+        "unit_price": 2499,
+        "total_price": 2499,
+        "purchase_date": "2026-08-20",
+        "store": "Amazon",
+        "category": "Electronics",
+        "status": "completed"
+    },
+    {
+        "purchase_id": "PUR-2B3C4D5E",
+        "product_id": "P-E5F6G7H8",
+        "product_name": "Organic Coffee Powder",
+        "quantity": 2,
+        "unit_price": 450,
+        "total_price": 900,
+        "purchase_date": "2026-08-21",
+        "store": "BigBasket",
+        "category": "Groceries",
+        "status": "completed"
+    }
+]

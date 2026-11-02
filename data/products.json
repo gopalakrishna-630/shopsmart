@@ -1,0 +1,52 @@
+[
+    {
+        "product_id": "P-A1B2C3D4",
+        "name": "Sony WH-CH520",
+        "category": "Electronics",
+        "price": 2499,
+        "quantity": 25,
+        "store": "Amazon",
+        "rating": 4.5,
+        "description": "Wireless headphones"
+    },
+    {
+        "product_id": "P-B2C3D4E5",
+        "name": "JBL Tune 510BT",
+        "category": "Electronics",
+        "price": 2299,
+        "quantity": 15,
+        "store": "Flipkart",
+        "rating": 4.2,
+        "description": "Bass headphones"
+    },
+    {
+        "product_id": "P-C3D4E5F6",
+        "name": "boAt Rockerz 450",
+        "category": "Electronics",
+        "price": 1499,
+        "quantity": 40,
+        "store": "Croma",
+        "rating": 4.1,
+        "description": "Affordable wireless headphones"
+    },
+    {
+        "product_id": "P-D4E5F6G7",
+        "name": "Levi's Men Jeans",
+        "category": "Clothing",
+        "price": 1899,
+        "quantity": 10,
+        "store": "Myntra",
+        "rating": 4.6,
+        "description": "Slim fit jeans"
+    },
+    {
+        "product_id": "P-E5F6G7H8",
+        "name": "Organic Coffee Powder",
+        "category": "Groceries",
+        "price": 450,
+        "quantity": 100,
+        "store": "BigBasket",
+        "rating": 4.8,
+        "description": "100% Arabica"
+    }
+]
